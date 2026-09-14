@@ -203,9 +203,8 @@ Two main documents explain the project:
 
 ### Graduation Project Book
 
-```text
-Graduation Project 1 Book.docx
-```
+[`Graduation_Project_1_Book.docx`](./Graduation_Project_1_Book.docx)
+
 
 The book contains:
 
