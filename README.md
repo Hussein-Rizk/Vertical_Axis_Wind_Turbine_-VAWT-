@@ -223,9 +223,7 @@ The book contains:
 
 ### HAWT vs. VAWT Presentation
 
-[`main/HAWTs vs. VAWTs Scientific Analysis.pptx`](.main/HAWTs vs. VAWTs Scientific Analysis.pptx)
-
-HAWTs vs. VAWTs Scientific Analysis.pptx
+[`HAWTs vs. VAWTs Scientific Analysis.pptx`](./HAWTs vs. VAWTs Scientific Analysis.pptx)
 
 
 The presentation summarizes:
