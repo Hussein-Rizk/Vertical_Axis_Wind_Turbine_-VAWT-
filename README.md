@@ -223,9 +223,10 @@ The book contains:
 
 ### HAWT vs. VAWT Presentation
 
-```text
+[`main/HAWTs vs. VAWTs Scientific Analysis.pptx`](.main/HAWTs vs. VAWTs Scientific Analysis.pptx)
+
 HAWTs vs. VAWTs Scientific Analysis.pptx
-```
+
 
 The presentation summarizes:
 
@@ -241,12 +242,9 @@ The presentation summarizes:
 
 ### Prototype Image
 
-```text
-Pics/VAWT_Prototype.png
-```
-
-This image can be added to the repository to visually document the final fabricated VAWT prototype.
-
+<p align="center">
+  <img src="./Pics/VAWT_Prototype.png" width="55%">
+</p>
 
 ---
 
